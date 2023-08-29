@@ -16,3 +16,9 @@ print(type(surname))
 result_integer =int(age)
 print(type(result_integer))
 
+
+#Boolean
+true_boolean = True
+false_boolean = False
+
+print(type(true_boolean))
